@@ -1,0 +1,8 @@
+title: Jrmaingo.GitHub.io
+description: This is a website that I am making for myself to help learn html and css.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
