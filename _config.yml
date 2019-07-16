@@ -1,8 +1,12 @@
-title: Jrmaingo.GitHub.io
-description: This is a website that I am making for myself to help learn html and css.
-google_analytics: 
-show_downloads: true
+title: jmaingot.com
+description: This is my personal website.
+google_analytics: false
+show_downloads: false
 theme: jekyll-theme-minimal
 
-gems:
+plugins:
   - jekyll-mentions
+
+github:
+  is_project_page: false
+  is_user_page: true
