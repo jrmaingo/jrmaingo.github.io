@@ -1,5 +1,5 @@
 title: jmaingot.com
-description: This is my personal website.
+description: Software Engineer at WhatsApp
 google_analytics: false
 show_downloads: false
 theme: jekyll-theme-minimal
@@ -8,9 +8,18 @@ plugins:
   - jekyll-mentions
 
 resume_path: /resume.pdf
+email: julianmaingot@gmail.com
 github_url: https://github.com/jrmaingo
 linkedin_url: https://www.linkedin.com/in/maingotjulian
 
 github:
   is_project_page: false
   is_user_page: false
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: Julian Maingot
