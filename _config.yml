@@ -7,6 +7,10 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-mentions
 
+resume_path: /resume.pdf
+github_url: https://github.com/jrmaingo
+linkedin_url: https://www.linkedin.com/in/maingotjulian
+
 github:
   is_project_page: false
-  is_user_page: true
+  is_user_page: false
