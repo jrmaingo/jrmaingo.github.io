@@ -1,4 +1,6 @@
 # Posts
+Things that I felt the need to write down at some point in time.
+
 <ul>
   {% for post in site.posts %}
   <li>

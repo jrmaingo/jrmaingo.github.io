@@ -8,6 +8,8 @@ plugins:
   - jekyll-mentions
 
 resume_path: /resume.pdf
+gpg_path: /julian.gpg
+fpr_path: /julian.fpr
 email: julianmaingot@gmail.com
 github_url: https://github.com/jrmaingo
 linkedin_url: https://www.linkedin.com/in/maingotjulian
