@@ -1,4 +1,4 @@
-Welcome to my personal website. You can find some stuff that I typed at some point in time.
+Welcome to my personal website. You can find some stuff that I [typed](/posts.html) or [read](/books.html) at some point in time.
 
 ## Recent Posts
 <ul>
