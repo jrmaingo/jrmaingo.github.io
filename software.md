@@ -1,0 +1,15 @@
+# Software I use(d)
+In no particular order.
+
+* [neovim](https://neovim.io/)
+* [tmux](https://github.com/tmux/tmux)
+* [arch linux](https://www.archlinux.org/)
+* [firefox](https://www.mozilla.org/en-CA/firefox/)
+* [pass](https://www.passwordstore.org/)
+* [ublock origin](https://github.com/gorhill/uBlock)
+* [refind](https://www.rodsbooks.com/refind/)
+* [xfce](https://xfce.org/)
+* [thunderbird](https://www.thunderbird.net/en-US/)
+* [signal](https://www.signal.org/)
+* [Wine](https://www.winehq.org/)
+* [todoist](https://todoist.com/)
