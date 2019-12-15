@@ -11,7 +11,10 @@
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     <script>
-        var MathJax = {
+        window.MathJax = {
+            tex: {
+                tags: 'ams'
+            },
             tex2jax: {
               inlineMath: [['$','$'],['\\(','\\)']],
               procesEscapes: true
