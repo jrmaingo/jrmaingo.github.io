@@ -8,5 +8,11 @@ Books I've read in approximate chronological order of completion.
 * Brave New World (Aldous Huxley)
 * Speaker for the Dead (Orson Scott Card)
 * 1984 (George Orwell)
+* Hitchhiker's Guide to the Galaxy (Douglas Adams)
+
+## 2020
+* The Disaster Artist (Greg Sestero & Tom Bissell)
+* Never Split the Difference (Chris Voss & Tahl Raz)
+* Weaponized Lies (Daniel J. Levitin)
 
 (previous years coming soon)
