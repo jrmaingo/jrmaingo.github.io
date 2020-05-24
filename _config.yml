@@ -2,6 +2,7 @@ title: jmaingot.com
 description: Software Engineer at WhatsApp
 google_analytics: false
 show_downloads: false
+markdown: kramdown
 theme: jekyll-theme-minimal
 
 plugins:
