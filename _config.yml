@@ -6,6 +6,7 @@ theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-mentions
+  - jekyll-feed
 
 resume_path: /resume.pdf
 gpg_path: /julian.gpg

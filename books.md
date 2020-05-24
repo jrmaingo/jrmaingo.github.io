@@ -15,5 +15,6 @@ Books I've read in approximate chronological order of completion.
 * Weaponized Lies (Daniel J. Levitin)
 * Never Split the Difference (Chris Voss & Tahl Raz)
 * The Domestication of Language (Daniel Cloud)
+* Learn You a Haskell for Great Good! (Miran Lipovača)
 
 (previous years coming soon)
