@@ -14,7 +14,6 @@ Books I've read in approximate chronological order of completion.
 * The Disaster Artist (Greg Sestero & Tom Bissell)
 * Weaponized Lies (Daniel J. Levitin)
 * Never Split the Difference (Chris Voss & Tahl Raz)
-* The Domestication of Language (Daniel Cloud)
-* Learn You a Haskell for Great Good! (Miran Lipovača)
+* The Attention Merchants (Tim Wu)
 
 (previous years coming soon)
